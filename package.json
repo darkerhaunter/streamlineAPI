@@ -1,0 +1,14 @@
+{
+  "name": "streamlineAPI",
+  "version": "1.0.0",
+  "description": "API handler for node.js. Deals with requests and parsing",
+  "main": "index.js",
+  "repository": "https://github.com/darkerhaunter/streamlineAPI.git",
+  "author": "<haunter.minecraftserver@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "https": "^1.0.0",
+    "JSON": "^1.0.0"
+  }
+}
