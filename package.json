@@ -10,6 +10,8 @@
     "crypto": "^1.0.1",
     "https": "^1.0.0",
     "JSON": "^1.0.0",
-    "valid-url": "^1.0.9"
+    "valid-url": "^1.0.9",
+    "xhr2": "^0.2.0",
+    "xmlhttprequest": "^1.8.0"
   }
 }
